@@ -1,5 +1,5 @@
 """
-这里我们完成一些其他的方法
+这里完成一些其他的方法
 """
 import numpy as np
 import torch
